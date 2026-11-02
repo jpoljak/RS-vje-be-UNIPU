@@ -2,7 +2,7 @@
 
 Jednostavan REST API u FastAPI-ju (podaci se čuvaju u memoriji).
 
-**Javni URL (Render):** _TODO – upisati nakon deploymenta_
+**Javni URL (Render):** https://rs-vjezbe-backend-dupu.onrender.com
 
 ## Endpointi
 

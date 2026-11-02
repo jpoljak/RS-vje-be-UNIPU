@@ -1,5 +1,5 @@
 // Nakon deploymenta backenda ovdje upiši njegov Render URL (bez završne kose crte)
-const API_URL = "http://localhost:8000";
+const API_URL = "https://rs-vjezbe-backend-dupu.onrender.com";
 
 const statusEl = document.getElementById("status");
 const listEl = document.getElementById("list");
