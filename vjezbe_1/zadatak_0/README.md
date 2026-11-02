@@ -7,6 +7,6 @@
 | Python | 3.15.0 |
 | Shell | zsh |
 | curl | 8.7.1 |
-| Editor | _upisati (npr. VS Code)_ |
-| HTTP klijent | _upisati (npr. Postman)_ |
+| Editor | VS Code |
+| HTTP klijent | Bruno |
 | Git hosting | GitHub (jpoljak) |

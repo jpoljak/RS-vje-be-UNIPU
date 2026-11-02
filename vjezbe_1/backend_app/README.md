@@ -31,6 +31,20 @@ uvicorn main:app --reload
 - Build Command: `pip install -r requirements.txt`
 - Start Command: `uvicorn main:app --host 0.0.0.0 --port $PORT`
 
+## Screenshotovi testiranja
+
+curl:
+
+![curl](screenshots/curl.png)
+
+Bruno (GET):
+
+![Bruno GET](screenshots/bruno_get.png)
+
+Bruno (POST):
+
+![Bruno POST](screenshots/bruno_post.png)
+
 ## Testiranje (curl)
 
 ```bash
