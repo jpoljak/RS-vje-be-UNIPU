@@ -2,7 +2,7 @@
 
 Statična stranica (HTML/CSS/JS) koja poziva backend iz `../backend_app`.
 
-**Javni URL (Render):** _TODO – upisati nakon deploymenta_
+**Javni URL (Render):** https://rs-vje-be-unipu.onrender.com/
 
 ## Render (Static Site)
 
